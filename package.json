@@ -1,0 +1,22 @@
+{
+  "name": "kozlovsky-m15",
+  "version": "1.0.0",
+  "description": "Kozlovsky V. M15 HW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladyslav Kozlovsky",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2",
+    "gulp-rename": "^2.0.0",
+    "readable-stream": "^3.6.0"
+  },
+  "devDependencies": {
+    "gulp-sass": "^5.0.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.45.0"
+  }
+}
